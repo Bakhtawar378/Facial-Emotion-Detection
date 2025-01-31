@@ -65,7 +65,7 @@ The model was trained on the **FER2013Plus** dataset, which includes facial imag
 You can access model files in the repository.
 
 ## Dataset
-The dataset used for this project is available in the kaggle repository. It contains 7 classes of facial expressions, with the newly added **pain** class. You can find the dataset [[here](https://www.kaggle.com/datasets/bakhtawartariq/dataset1)
+The dataset used for this project is available in the kaggle repository. It contains 7 classes of facial expressions, with the newly added **pain** class. You can find the dataset [[here]](https://www.kaggle.com/datasets/bakhtawartariq/dataset1)
 
 ---
 
