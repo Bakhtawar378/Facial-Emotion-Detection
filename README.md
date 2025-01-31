@@ -50,11 +50,17 @@ The model uses a combination of two custom loss functions:
 ## Results
 The model was trained on the **FER2013Plus** dataset, which includes facial images labeled with 7 emotion categories. The results below show the **training loss** and **accuracy** over multiple epochs.
 
-- **Training Loss**: <img src="Loss.png" width="300" height="auto">
-- **Accuracy**: <img src="accuracy.png" width="300" height="auto">
-- **Confusion Matrix**: <img src="confusion_matrix.png" width="300" height="auto">
+# Training Loss
+<img src="Loss.png" width="450" height="auto">
 
-- **Results on Unseen Images**: <img src="results_on_real_data.png" width="300" height="auto">
+# Accuracy
+<img src="accuracy.png" width="450" height="auto">
+
+# Confusion Matrix
+<img src="confusion_matrix.png" width="450" height="auto">
+
+# Results on Unseen Images
+<img src="results_on_real_data.png" width="450" height="auto">
 
 You can access model files in the repository.
 
